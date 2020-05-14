@@ -21,6 +21,35 @@ namespace FindAndReplace.Models
       return result;
     }
   }
-
-
 }
+
+/*
+
+string [] strArray = sentence.Split("");
+string [] wrdArray = word.Split("");
+string [] rplArray = replace
+
+for (int i = 0; i < strArray.Length; i++)
+{
+  if(strArray[i] == wrdArray[0])
+  {
+    int startIndex = i;
+    int endIndex = 0;
+    bool match = true;
+    for (int j = 0; j < wrdArray.Length; i++)
+    {
+      if(!(strArray[i+j] == wrdArray[j]))
+      {
+        bool match = false;
+      }
+      endIndex = startIndex + wrdArray.Length;
+    }
+    if (match)
+    {
+      replace 
+    }
+
+  }
+}
+
+*/
