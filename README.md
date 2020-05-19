@@ -1,4 +1,4 @@
-# _Scrabble Score_
+# _Find-And-Replace_
 
 #### _This is an exercise of using Behavior Driven Development and automated testing. 5/14/2020_
 
